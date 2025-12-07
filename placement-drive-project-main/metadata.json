@@ -1,0 +1,5 @@
+{
+  "name": "TalentLink Pro",
+  "description": "An intelligent campus placement allocation system that automates student-company matching based on merit and preferences, visualized with D3 and Gemini insights.",
+  "requestFramePermissions": []
+}
